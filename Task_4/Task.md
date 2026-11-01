@@ -28,8 +28,7 @@
 │   ├── red_tilted_left.png			# 左倾红色装甲板
 │   └── red_tilted_right.png		# 右倾红色装甲板
 ├── videos/                         # 测试视频
-│   ├── red.mp4                     # 红色灯条视频
-│   └── blue.mp4                    # 蓝色灯条视频
+│   └── armor.avi
 ├── test/                           # 中途测试图片（可选）
 ├── include/
 ├── src/
